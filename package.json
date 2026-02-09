@@ -1,6 +1,6 @@
 {
   "name": "@videoml/stdlib",
-  "version": "0.0.0-semantic-release",
+  "version": "1.0.0",
   "description": "VideoML standard library: layouts, tokens, and utility components.",
   "license": "MIT",
   "type": "module",
